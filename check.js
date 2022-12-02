@@ -1,0 +1,2 @@
+function checkPrime(num){
+
